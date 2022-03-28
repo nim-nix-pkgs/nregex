@@ -11,7 +11,6 @@
   inputs.src-nregex-v0_0_3.ref   = "refs/tags/v0.0.3";
   inputs.src-nregex-v0_0_3.owner = "nitely";
   inputs.src-nregex-v0_0_3.repo  = "nregex";
-  inputs.src-nregex-v0_0_3.dir   = "";
   inputs.src-nregex-v0_0_3.type  = "github";
   
   inputs."unicodedb".owner = "nim-nix-pkgs";
